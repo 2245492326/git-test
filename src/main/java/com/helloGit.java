@@ -6,5 +6,6 @@ public class helloGit {
         System.out.println("你好git2");
         System.out.println("你好hot");
         System.out.println("main-test");
+        System.out.println("你好hot-test1");
     }
 }

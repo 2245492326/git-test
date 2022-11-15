@@ -8,5 +8,7 @@ public class helloGit {
         System.out.println("main-test");
         System.out.println("你好hot-test1");
         System.out.println("push-test");
+        
+        System.out.println("pull-test");
     }
 }
